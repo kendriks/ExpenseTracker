@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "description": "Supermercado",
+    "amount": 152.30,
+    "category": "Alimentação",
+    "date": "2026-02-01"
+  },
+  {
+    "id": 2,
+    "description": "Uber",
+    "amount": 25.50,
+    "category": "Transporte",
+    "date": "2026-02-02"
+  },
+  {
+    "id": 3,
+    "description": "Internet",
+    "amount": 99.90,
+    "category": "Moradia",
+    "date": "2026-02-03"
+  },
+  {
+    "id": 4,
+    "description": "Cinema",
+    "amount": 40.00,
+    "category": "Lazer",
+    "date": "2026-02-04"
+  },
+  {
+    "id": 5,
+    "description": "Farmácia",
+    "amount": 67.80,
+    "category": "Saúde",
+    "date": "2026-02-05"
+  },
+  {
+    "id": 6,
+    "description": "Restaurante",
+    "amount": 89.90,
+    "category": "Alimentação",
+    "date": "2026-02-06"
+  },
+  {
+    "id": 7,
+    "description": "Gasolina",
+    "amount": 120.00,
+    "category": "Transporte",
+    "date": "2026-02-07"
+  },
+  {
+    "id": 8,
+    "description": "Curso Online",
+    "amount": 199.00,
+    "category": "Educação",
+    "date": "2026-02-08"
+  },
+  {
+    "id": 9,
+    "description": "Conta de Luz",
+    "amount": 135.60,
+    "category": "Moradia",
+    "date": "2026-02-09"
+  },
+  {
+    "id": 10,
+    "description": "Assinatura de Streaming",
+    "amount": 29.90,
+    "category": "Lazer",
+    "date": "2026-02-10"
+  }
+]
