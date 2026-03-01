@@ -2,14 +2,14 @@ package br.com.expensetracker.model;
 
 import java.time.LocalDate;
 
-public class Expense {
+public class Expenses {
     private Long id;
     private String description;
     private Double amount;
     private String category;
     private LocalDate date;
 
-    public Expense(Long id, String description, Double amount, String category, LocalDate date) {
+    public Expenses(Long id, String description, Double amount, String category, LocalDate date) {
         this.id = id;
         this.description = description;
         this.amount = amount;
